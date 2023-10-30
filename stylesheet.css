@@ -1,3 +1,4 @@
+/*Footer CSS*/
 .footer{
     background-color: #1f2937;
     color: #f9faf8;
@@ -6,4 +7,33 @@
     align-items: center;
     padding: 20px;
     font-size: 18px;
+    font-family: hero;
+}
+/*Header CSS*/
+.header{
+    background-color: #1f2937;
+    color: #f9faf8;
+    display: flex;
+    padding-left: 20px;
+    font-size: 18px;
+    font-family: hero;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: #f9faf8;
+}
+.links{
+    font-family: 'hero secondary';
+}
+ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+}
+li{
+    margin: 8px;
 }
