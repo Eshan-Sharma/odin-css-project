@@ -65,4 +65,28 @@ li{
     padding-right: 90px;
     justify-content: flex-end;
 }
-/**/
+/*Fourth section - call to action*/
+.fourth{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 36px;
+    color: white;
+    background-color: #3882f6;
+    border-radius: 20px;    
+}
+ul.callToAction{
+    display: flex;
+    flex-direction: column;
+}
+.callToAction li{
+    margin:0;
+}
+button{
+    color: white;
+    background-color: #3882f6;
+    display: flex;
+    border-radius: 5px;
+    margin: 5px 50px 5px 0;
+    padding: 8px;
+}
