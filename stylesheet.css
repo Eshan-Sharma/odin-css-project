@@ -114,3 +114,31 @@ button{
     text-align: center;
     font-weight: bolder;
 }
+/* First section */
+.first{
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    padding: 18px;
+    justify-content: space-between;
+    
+}
+.one{
+    text-align: left;
+}
+.rec{
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding: 12px;
+    line-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    background-color: gray;
+}
+.mainText{
+    font-size: 48px;
+    font-weight: bolder;
+}
